@@ -1,1 +1,1 @@
-Init new repository for implementation of automation testing with wdio + appium
+Init new repository for implementating automation testing with wdio + appium
